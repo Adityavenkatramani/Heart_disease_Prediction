@@ -1,6 +1,6 @@
 
 
-# Heart Disease Prediction
+# Heart-Disease-Prediction
 
 This project aims to predict the presence of heart disease based on a dataset containing various medical features. It utilizes the Logistic Regression algorithm for classification.
 
